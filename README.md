@@ -14,7 +14,6 @@ My approach (now a working solution):
   5. *IMPORTANT* STK has a provision to take HTML commands for initializing path points for a UAV. We make use of this exploit and generate *HTML* commands as printed text, from the MATLAB application.
   6. These commands are then fed to STK directly (simply copy-pasting) and we have thus solved the problem.
 
-Please feel free to write to me at sammit.bitspilani@gmail.com for any queries regarding this.
 Some pointers for using this repository:
 
 (@) Currently working approach:
